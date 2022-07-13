@@ -1,5 +1,5 @@
 # Web-Bluetooth
-Nowadays, browsers are evolving, bringing new APIs and ways to connect to other devices and allowing access to more functionality than they ever did before. One such API is the Web Bluetooth API.
+Nowadays, browsers are evolving, bringing new APIs and ways to connect to other devices and allowing access to more functionality than they ever did before. One such API is the Web Bluetooth API.https://googlechrome.github.io/samples/web-bluetooth/
 
 This API is still in beta as of this writing, but once this gets released to the public, it will open a whole lot of opportunities for developers who want to use Bluetooth but don’t want to create a native application for each platform.
 
